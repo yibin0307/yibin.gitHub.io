@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>CIS Sample Website</title>
+</head>
+<body>
+<div>
+<table>
+<tr>
+<td>
+<img src="images/ecc-logo.png" alt="El Camino College" />
+</td>
+<td>
+<h2>Computer Information Systems Program Of Study</h2>
+</td>
+</tr>
+</table>
+</div>
+<div>
+<h2 style="text-align:center">Computer Information Systems</h2>
+</div>
+<p>
+  The Department of Computer Information Systems (CIS) at El Camino College offers a state-of-the-art curriculum utilizing the most current software and hardware. The program is designed for the computer novice, the individual seeking career enhancement, and for the student completing a two-year degree, or transferring to a four-year college.
+
+  CIS prepares students for careers in Information Systems. Emphasis is on the fundamentals of business information systems, computer hardware, system software, decision support systems, e-commerce, web development, help desk and telecommunications including network management. The CIS curriculum provides the student a solid foundation to compete in this rapidly changing field that is in high demand in the marketplace.
+
+  The CIS graduate will be able to deliver timely, accurate and pertinent information that is critical to decision-making in a competitive business environment.
+
+  For further information, please explore this web page or refer to the latest El Camino College Catalog.
+</body>
+</html>
